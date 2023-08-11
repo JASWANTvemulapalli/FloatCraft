@@ -1,4 +1,5 @@
-![Description for result1](Addition.png)
+![Description for Addition results](Addition.png)
+
 
 - In the above simulation, the inputs given are 36.25
 and 44.75.
